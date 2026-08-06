@@ -1,0 +1,2 @@
+Coloque aqui os arquivos de música (mp3) usados no player: musica-01.mp3, musica-02.mp3, musica-03.mp3
+Ou edite src/data/musicas.js com os nomes reais.
