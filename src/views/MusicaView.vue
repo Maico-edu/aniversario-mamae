@@ -78,8 +78,8 @@ onUnmounted(() => {
 
 <template>
   <section class="pagina container">
-    <h2 class="titulo-secao" v-reveal>Uma Trilha Para Você</h2>
-    <p class="subtitulo-secao" v-reveal>Músicas que marcaram nossa história junto de você.</p>
+    <h2 class="titulo-secao" v-reveal>Nossa Playlist</h2>
+    <p class="subtitulo-secao" v-reveal>Músicas que marcam nossa familia</p>
 
     <div class="player" v-reveal>
       <img :src="musicaAtual.capa" :alt="musicaAtual.titulo" class="player__capa" />

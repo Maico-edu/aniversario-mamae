@@ -2,16 +2,16 @@
 export const musicas = [
   {
     id: 1,
-    titulo: 'Música especial 1',
-    artista: 'Artista',
-    capa: '/fotos/capa-01.jpg',
-    src: '/musicas/musica-01.mp3',
+    titulo: 'Anna Júlia',
+    artista: 'Los Hermanos',
+    capa: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbIXub0r7WKkgD9EJHzK-86WBNKQ-OOShgm8wzNpO_Pw&s=10',
+    src: 'https://youtu.be/97hee9msbEs?si=5I9n6AHs2LJIhbUA',
   },
   {
     id: 2,
-    titulo: 'Música especial 2',
-    artista: 'Artista',
-    capa: '/fotos/capa-02.jpg',
+    titulo: 'A Grande Família',
+    artista: 'Dudu Nobre',
+    capa: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIlDIXikfjyqLEF44mAnr7zu6zoUEnIJeS8Z_kFZfKoA&s=10',
     src: '/musicas/musica-02.mp3',
   },
   {
