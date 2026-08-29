@@ -3,7 +3,7 @@ import { ref } from 'vue'
 
 const revelado = ref(false)
 const confetes = ref([])
-const fotoSurpresa = '../public/fotos/fotodamamae.jpeg'
+const fotoSurpresa = '/fotos/fotodamamae.jpeg'
 
 const coresConfete = ['#c9748a', '#cba15a', '#e7b6c3', '#f4d9b0', '#a85c72']
 
