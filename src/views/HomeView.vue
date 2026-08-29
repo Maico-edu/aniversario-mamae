@@ -33,7 +33,7 @@ const { valorAtual } = useContador(idade)
         <span class="hero__label">anos iluminando nossa família</span>
       </div>
 
-      <RouterLink to="/historia" class="botao-principal" v-reveal="{ delay: 600 }">
+      <RouterLink to="/galeria" class="botao-principal" v-reveal="{ delay: 600 }">
         Começar ✨
       </RouterLink>
     </div>
