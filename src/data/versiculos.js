@@ -6,4 +6,6 @@ export const versiculos = [
   { id: 4, tema: 'Gratidão', texto: 'Dai graças em tudo, porque esta é a vontade de Deus em Cristo Jesus para convosco.', referencia: '1 Tessalonicenses 5:18' },
   { id: 5, tema: 'Bênçãos', texto: 'O Senhor te abençoe e te guarde; o Senhor faça resplandecer o seu rosto sobre ti.', referencia: 'Números 6:24-25' },
   { id: 6, tema: 'Amor', texto: 'Nós amamos porque ele nos amou primeiro.', referencia: '1 João 4:19' },
+  { id: 7, tema: 'União', texto: 'É o amor que mantém nossa família unida e faz da nossa casa o nosso lar.', referencia: 'Colossenses 3:14' },
+  { id: 8, tema: 'Família', texto: 'Não existe nada mais bonito do que ter uma família unida, compartilhando a vida e todos os seus momentos.', referencia: 'Salmos 133:1' },
 ]

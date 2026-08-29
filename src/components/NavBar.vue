@@ -7,7 +7,6 @@ const menuAberto = ref(false)
 
 const links = [
   { rota: '/', texto: 'Início' },
-  { rota: '/historia', texto: 'Nossa História' },
   { rota: '/galeria', texto: 'Galeria' },
   { rota: '/carta', texto: 'Carta' },
   { rota: '/motivos', texto: 'Motivos' },

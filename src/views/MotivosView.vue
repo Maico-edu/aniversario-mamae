@@ -20,7 +20,7 @@ function aoSairMouse(e) {
 
 <template>
   <section class="pagina container">
-    <h2 class="titulo-secao" v-reveal>Motivos Pelos Quais Te Amamos (nao sao poucos ksks)</h2>
+    <h2 class="titulo-secao" v-reveal>Motivos Pelos Quais te <br>amamos nossa rainha</h2>
     <p class="subtitulo-secao" v-reveal>São tantos, que escolhemos só alguns para caber aqui.</p>
 
     <div class="grade">

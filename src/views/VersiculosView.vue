@@ -5,7 +5,7 @@ import { versiculos } from '../data/versiculos.js'
 <template>
   <section class="pagina container">
     <h2 class="titulo-secao" v-reveal>Versículos</h2>
-    <p class="subtitulo-secao" v-reveal>Palavras que reforçam o amor, a fé e a gratidão que sentimos.</p>
+    <p class="subtitulo-secao" v-reveal>Versículos que falam da nossa família e do amor que nos une.</p>
 
     <div class="versiculos">
       <div

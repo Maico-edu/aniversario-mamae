@@ -8,12 +8,6 @@ const routes = [
     meta: { titulo: 'Início' },
   },
   {
-    path: '/historia',
-    name: 'historia',
-    component: () => import('../views/HistoriaView.vue'),
-    meta: { titulo: 'Nossa História' },
-  },
-  {
     path: '/galeria',
     name: 'galeria',
     component: () => import('../views/GaleriaView.vue'),

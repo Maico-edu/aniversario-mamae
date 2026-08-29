@@ -16,9 +16,9 @@ export const musicas = [
   },
   {
     id: 3,
-    titulo: 'Música especial 3',
-    artista: 'Artista',
-    capa: '/fotos/capa-03.jpg',
+    titulo: 'Escreve Aí',
+    artista: 'Luan Santana',
+    capa: '../public/fotos/luan.jpeg',
     src: '/musicas/musica-03.mp3',
   },
 ]

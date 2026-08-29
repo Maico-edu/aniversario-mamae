@@ -1,7 +1,0 @@
-Coloque aqui as fotos reais da sua mãe com os nomes já usados no código:
-
-principal.jpg, infancia.jpg, casamento.jpg, nascimento.jpg, momentos.jpg,
-conquistas.jpg, hoje.jpg, galeria-01.jpg até galeria-09.jpg,
-memoria-01.jpg até memoria-05.jpg, capa-01.jpg a capa-03.jpg, surpresa.jpg
-
-Ou edite os arquivos em src/data/*.js e troque os caminhos pelos nomes que preferir.
