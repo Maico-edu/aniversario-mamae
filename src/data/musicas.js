@@ -18,7 +18,7 @@ export const musicas = [
     id: 3,
     titulo: 'Escreve Aí',
     artista: 'Luan Santana',
-    capa: '../public/fotos/luan.jpeg',
+    capa: '/fotos/luan.jpeg',
     src: '/musicas/musica-03.mp3',
   },
 ]
